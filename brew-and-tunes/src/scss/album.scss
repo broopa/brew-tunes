@@ -1,5 +1,59 @@
 .bc-style {
     border: 0; 
-    width: 400px; 
-    height: 472px;
+    width: 100%; 
+    height: 25em;
+}
+
+@media screen and (min-width:2560px) {
+    .bc-style{
+        height:40em;
+    }
+}
+
+@media screen and (min-width:1480px) and (max-width:1670px) {
+    .bc-style{
+        height:28em;
+    }
+    }
+
+@media screen and (min-width:1480px) and (max-width:1670px) {
+.bc-style{
+    height:28em;
+}
+}
+
+@media screen and (max-width:1080px) {
+    .bc-style{
+        height:20em;
+    }
+}
+
+@media screen and (max-width:1024px) {
+    .bc-style{
+        height:20em;
+    }
+}
+
+@media screen and (max-width:768px) {
+    .bc-style{
+        height:28em;
+    }
+}
+
+@media screen and (max-width:425px) {
+    .bc-style{
+        height:30em; 
+    }
+}
+
+@media screen and (max-width:375px) {
+    .bc-style{
+        height:28em; 
+    }
+}
+
+@media screen and (max-width:325px) {
+    .bc-style{
+        height:25em; 
+    }
 }

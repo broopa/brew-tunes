@@ -2,6 +2,7 @@ import React from 'react';
 import Album from './album';
 import '../scss/music.scss';
 import { weeklyPlayList } from './data/audio';
+import Tabs from 'reactbulma';
 
  class MusicList extends React.Component {
    
@@ -11,12 +12,15 @@ import { weeklyPlayList } from './data/audio';
 
     render() {
         return (
-            <div className='directory-menu'>
+            <div className='columns is-mobile' >
+                
     {
                     this.state.weeklyPlayList.map(({id, ...otherSectionProps}) => (
                         <Album key={id} {...otherSectionProps} />
                     ))
-                }        </div>
+                }
+
+            </div>
         )
     }
     }
