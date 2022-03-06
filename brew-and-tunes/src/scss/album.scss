@@ -34,6 +34,12 @@
     }
 }
 
+@media screen and (min-width:769px) and (max-width:949px) {
+    .bc-style{
+        height:32em;
+    }
+}
+
 @media screen and (max-width:768px) {
     .bc-style{
         height:28em;
