@@ -9,9 +9,10 @@ class Header extends React.Component {
             <img src={logo} className="logo" alt="logo" />
             </div>
             <div className="column">
-          <h1>Brew and Tunes</h1>
-          <p>Brew and Tunes is a side project to share my weekly playlist and coffee selection. Music plays a large role in my life and is generally always playing. Coffee has become a new hobby of mine, I love experimenting with brewing methods and beans, even though I've been on a big African kick for the last year.</p>
-          <p>In the future I might expand this to include the audio equipment that I am using as well. Right now I will focus on the albums I have recently purchased and am listening to. I tend to listen to albums front to back. I am not a person who enjoys just picking up a single and replaying it ad nasium.</p>
+              <h1>Brew and Tunes</h1>
+              <p>Brew and Tunes is a side project to share my weekly playlist and coffee selection. Each week I rotate through albums that I have purchased, mostly through Bandcamp. I listen to albums front to back because listening to the same single over and over drives me insane; so this format of listing albums fits my normal routine. Coffee is a constant that is ever changing, for that last year I have been on an African kick, but that does change from time to time as I find new beans that pique my curiosity. 
+              </p>
+              <p>As I develop this project more I might expand information to include the hardware I am using for my coffee and my music listening.</p>
           </div>
         </header>
       );

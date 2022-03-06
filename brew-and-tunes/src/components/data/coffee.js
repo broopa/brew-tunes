@@ -5,6 +5,7 @@ export const WeeklyCoffee = {
         imageUrl: 'https://i.ibb.co/R70vBrQ/men.png',
         desc: 'Natural processed and fruit-forward with tantalizing aromatics. We find flavors of ripe berries including blueberry and blackberry. The cup is balanced and heavy bodied with a unique spicy finish of both nutmeg and clove.',
         brewType: 'Drip',
+        grind: 'Medium',
         bloom: '35 Seconds',
         heat: '210F',
         id: 1,
