@@ -12,9 +12,11 @@
 
 $primaryColor: #a0d5c1;
 $secondaryColor: #2e2f2d;
+$offWhite :#f2f2f2;
 
 body {
     padding:1em 1em 0em 1em;
+    background:$offWhite;
 }
 
 section {
