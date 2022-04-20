@@ -32,7 +32,7 @@ section {
 
 .content {
     h1 {
-        font-size:40px;
+        font-size:100px;
         font-family:$font-titles ;
         color:$primaryColor ;
         font-weight: bold;
@@ -106,7 +106,11 @@ section {
     }
 }
 
-@media screen and (min-width:950px) and (max-width:1024px) {
+@media screen and (min-width:950px) and (max-width:1025px) {
+    .content h1 {
+        font-size:60px;
+    }
+    
     .logo{
         width:60%; 
     }
@@ -118,6 +122,10 @@ section {
 }
 
 @media screen and (min-width:769px) and (max-width:949px) {
+    .content h1 {
+        font-size:60px;
+    }
+   
     .logo{
         width:60%; 
     }
@@ -129,6 +137,11 @@ section {
 }
 
 @media screen and (max-width:768px) {
+    .content h1 {
+        font-size:60px;
+        text-align:center;
+    }
+   
     .logo{
         width:30%; 
     }

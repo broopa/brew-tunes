@@ -1,5 +1,6 @@
 import React from 'react';
 import '../scss/album.scss';
+import '../scss/music.scss';
 
 const Album = ({ artist, album, albumUrl, albumId }) => (
     
@@ -10,9 +11,9 @@ const Album = ({ artist, album, albumUrl, albumId }) => (
         <h4>
             {artist}
         </h4>
-        <p>
-            <iframe className="bc-style" src={albumUrl} title="Player" seamless></iframe>
-        </p>
+        <div className="iframe-frame">
+            <iframe className="responsive-iframe " src={albumUrl} title="Player" seamless></iframe>
+        </div>
     </div>
     </div>
 );
