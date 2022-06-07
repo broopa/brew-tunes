@@ -1,13 +1,13 @@
 export const WeeklyCoffee = {
-        name: 'Have You Tried Drinking Coffee?',
-        roaster: 'Sommus Coffee',
-        origin: 'Mexico',
-        imageUrl: 'https://f4.bcbits.com/img/0027686289_10.jpg',
-        desc: 'It\'s a medium roast on the lighter side, from Mexico. Undertones include cocoa, almond, and berry.',
-        brewType: 'Drip',
-        grind: 'Medium-fine',
-        bloom: '20 Seconds',
-        heat: '205F',
+        name: 'Worka Anaerobic Natural Gr1',
+        roaster: 'Klatch',
+        origin: 'Ethiopia, Yirgacheffe',
+        imageUrl: '',
+        desc: 'Guess who\'s back? But even better... Our beloved, Ethiopia Worka Natural with a new twist! Anaerobic Natural processed Ethiopia that give has intense sweet blueberry notes for its aroma. The cup highlight clean crisp flavor of a bowl of blueberries.',
+        brewType: 'French Press',
+        grind: 'Coarse',
+        bloom: '30 Seconds',
+        heat: '200F',
         id: 1,
-        buyUrl: 'https://okniceraps.bandcamp.com/album/have-you-tried-being-happy'
+        buyUrl: 'https://www.klatchcoffee.com/products/ethiopia-yirgacheffe-worka-anaerobic-natural-gr1'
   };
