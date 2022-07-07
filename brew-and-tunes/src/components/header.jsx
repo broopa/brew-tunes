@@ -9,7 +9,7 @@ class Header extends React.Component {
             <img src={logo} className="logo" alt="logo" />
             </div>
             <div className="column" >
-              <h1>Brew & Tunes</h1>
+              <h1>Bebop Brew</h1>
           </div>
         </header>
       );
