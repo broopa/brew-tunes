@@ -1,13 +1,13 @@
 export const WeeklyCoffee = {
-        name: 'Worka Anaerobic Natural Gr1',
-        roaster: 'Klatch',
-        origin: 'Ethiopia, Yirgacheffe',
+        name: 'Franken Grind',
+        roaster: 'Proud Mary',
+        origin: 'African Blend',
         imageUrl: '',
-        desc: 'Guess who\'s back? But even better... Our beloved, Ethiopia Worka Natural with a new twist! Anaerobic Natural processed Ethiopia that give has intense sweet blueberry notes for its aroma. The cup highlight clean crisp flavor of a bowl of blueberries.',
+        desc: 'Just like the infamous doctor, we\'ve taken some unexpected components and blended them together. Creating something that is truly greater than the sum of its parts. This Wild blend is make up of African coffees that really put the \'weee!\' into Halloween. Pick up a bag for yourself, or grab a few to drop into some trick or treat baskets at the end of the month.',
         brewType: 'French Press',
-        grind: 'Coarse',
-        bloom: '30 Seconds',
-        heat: '200F',
+        grind: 'Medium Fine',
+        bloom: '20 Seconds',
+        heat: '201F',
         id: 1,
-        buyUrl: 'https://www.klatchcoffee.com/products/ethiopia-yirgacheffe-worka-anaerobic-natural-gr1'
+        buyUrl: 'https://proudmarycoffee.com/products/limited-release-franken-grind-blend'
   };
