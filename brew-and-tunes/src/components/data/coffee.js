@@ -1,13 +1,13 @@
 export const WeeklyCoffee = {
-        name: 'Misty Valley',
-        roaster: 'Many Worlds Tavern',
-        origin: 'Yirga Chefe, Ethiopia',
-        imageUrl: 'https://cdn.shopify.com/s/files/1/0521/0921/3887/t/8/assets/treasured-realm--web-1637297829659.png?v=1637297838',
-        desc: 'Naturally-processed Ethiopian coffee is prized for its fruitiness and complexity.  The Misty Valley is a beautiful example from the Yirgacheffe region. With a coffee this fruity and intensely flavored, we take a lighter approach to the roasting profile to let the beans shine on their own. From producer Abdullah Bagersh, the ripe, drying coffee cherries are turned on raised beds for 48 hours to ensure an incredibly consistent, high-quality product.',
+        name: 'Franken Grind',
+        roaster: 'Onyx Coffee Lab',
+        origin: 'Colombia San Antonio, Ethiopia Gigesa',
+        imageUrl: '',
+        desc: 'Geometry has been defined as "describing spaces that lie beyond the normal range of human experience." Soon it will also be defined as "that coffee from Onyx that I am in love with and completely redefined my relationship with coffee." It\'s our answer for everything and has two of our favorite coffees—a washed processed Ethiopian & Colombian. This blend has become one of our favorite coffees. We love it as a filter coffee, and we love it as espresso. And not only does is it taste great as either but it\'s easy to dial in as espresso or filter.',
         brewType: 'Drip',
-        grind: 'Medium-fine',
-        bloom: '0 Seconds',
-        heat: '200F',
+        grind: 'Medium Fine, 22/60',
+        bloom: '20 Seconds',
+        heat: '199F',
         id: 1,
-        buyUrl: 'https://manyworldstavern.com/products/treasured-realm'
+        buyUrl: 'https://onyxcoffeelab.com/products/geometry?variant=31862717677666'
   };
