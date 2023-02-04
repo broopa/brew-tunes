@@ -1,13 +1,13 @@
 export const WeeklyCoffee = {
         name: 'Franken Grind',
-        roaster: 'Proud Mary',
-        origin: 'African Blend',
+        roaster: 'Onyx Coffee Lab',
+        origin: 'Colombia San Antonio, Ethiopia Gigesa',
         imageUrl: '',
-        desc: 'Just like the infamous doctor, we\'ve taken some unexpected components and blended them together. Creating something that is truly greater than the sum of its parts. This Wild blend is make up of African coffees that really put the \'weee!\' into Halloween. Pick up a bag for yourself, or grab a few to drop into some trick or treat baskets at the end of the month.',
-        brewType: 'French Press',
-        grind: 'Medium Fine',
+        desc: 'Geometry has been defined as "describing spaces that lie beyond the normal range of human experience." Soon it will also be defined as "that coffee from Onyx that I am in love with and completely redefined my relationship with coffee." It\'s our answer for everything and has two of our favorite coffees—a washed processed Ethiopian & Colombian. This blend has become one of our favorite coffees. We love it as a filter coffee, and we love it as espresso. And not only does is it taste great as either but it\'s easy to dial in as espresso or filter.',
+        brewType: 'Drip',
+        grind: 'Medium Fine, 22/60',
         bloom: '20 Seconds',
-        heat: '201F',
+        heat: '199F',
         id: 1,
-        buyUrl: 'https://proudmarycoffee.com/products/limited-release-franken-grind-blend'
+        buyUrl: 'https://onyxcoffeelab.com/products/geometry?variant=31862717677666'
   };
